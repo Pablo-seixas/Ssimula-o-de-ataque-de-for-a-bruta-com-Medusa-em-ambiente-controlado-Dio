@@ -1,0 +1,30 @@
+===============================================================
+Gobuster v3.8.2
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://172.16.0.20
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirb/common.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.8.2
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+.htpasswd            (Status: 403) [Size: 293]
+.htaccess            (Status: 403) [Size: 293]
+.hta                 (Status: 403) [Size: 288]
+cgi-bin/             (Status: 403) [Size: 292]
+dav                  (Status: 301) [Size: 313] [--> http://172.16.0.20/dav/]
+index                (Status: 200) [Size: 891]
+index.php            (Status: 200) [Size: 891]
+phpMyAdmin           (Status: 301) [Size: 320] [--> http://172.16.0.20/phpMyAdmin/]
+phpinfo.php          (Status: 200) [Size: 47978]
+phpinfo              (Status: 200) [Size: 47966]
+server-status        (Status: 403) [Size: 297]
+test                 (Status: 301) [Size: 314] [--> http://172.16.0.20/test/]
+twiki                (Status: 301) [Size: 315] [--> http://172.16.0.20/twiki/]
+===============================================================
+Finished
+===============================================================
