@@ -49,5 +49,5 @@ O projeto demonstrou que serviços mal configurados e com credenciais fracas pod
 Como medidas de mitigação, recomenda-se o uso de senhas fortes, implementação de bloqueio por tentativas, autenticação multifator e monitoramento de acessos suspeitos.
 
 Esse projeto reforça a importância de práticas básicas de segurança e mostra como ferramentas acessíveis podem ser utilizadas para explorar falhas reais em ambientes mal configurados.
-# Simula-o-de-ataque-de-for-a-bruta-com-Medusa-em-ambiente-controlado-DIO
-# Simula-o-de-ataque-de-for-a-bruta-com-Medusa-em-ambiente-controlado-DIO
+
+
