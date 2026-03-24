@@ -12,4 +12,4 @@ Este laboratório também inclui a análise de comportamento associado a ransomw
 
 O objetivo foi evidenciar, de forma prática, a geração de artefatos e sua análise dentro de um cenário seguro.
 
-![Execução](https://raw.githubusercontent.com/Pablo-seixas/Ssimula-o-de-for-a-bruta-com-Medusa-em-ambiente-controlado-Dio/main/malware/images/full.png)
+![Execução](https://raw.githubusercontent.com/Pablo-seixas/Ssimula-o-de-ataque-de-for-a-bruta-com-Medusa-em-ambiente-controlado-Dio/main/malware/images/full.png)
